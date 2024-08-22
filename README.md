@@ -25,13 +25,17 @@ To run this project locally, follow these steps:
    git clone https://github.com/yourusername/your-repository-name.git
 
 2. Navigate to the project directory:
+   
    cd your-repository-name
 
-3. Run the game:
+4. Run the game:
+   
    python Higher_or_Lower.py
 
 ## Project Structure
 
 art.py: Contains ASCII art for the game logo and other visual elements.
+
 game_data.py: Contains a list of dictionaries with data about various famous personalities and organizations, including their follower counts.
+
 Higher_or_Lower.py: The main script that runs the game, including logic for comparing follower counts, user interaction, and score tracking.
