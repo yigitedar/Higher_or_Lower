@@ -25,11 +25,13 @@ To run this project locally, follow these steps:
    git clone https://github.com/yourusername/your-repository-name.git
 
 2. Navigate to the project directory:
-   
+
+   ```bash
    cd your-repository-name
 
 4. Run the game:
-   
+
+   ```bash
    python Higher_or_Lower.py
 
 ## Project Structure
